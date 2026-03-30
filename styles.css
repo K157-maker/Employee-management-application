@@ -1,0 +1,31 @@
+body {
+  font-family: Arial;
+  margin: 20px;
+}
+
+nav {
+  background: #333;
+  padding: 10px;
+}
+
+nav a {
+  color: white;
+  margin: 10px;
+  text-decoration: none;
+}
+
+form input, button {
+  display: block;
+  margin: 10px 0;
+  padding: 8px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid black;
+  padding: 10px;
+}
